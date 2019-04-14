@@ -1,0 +1,2 @@
+# JavaOhjelmontiTentti
+Java-ohjelmoinnin tenttitehtävä.

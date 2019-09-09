@@ -1,2 +1,1 @@
-# JavaOhjelmontiTentti
-Java-ohjelmoinnin tenttitehtävä.
+# java-programming-exam
